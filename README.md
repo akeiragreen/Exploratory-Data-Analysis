@@ -95,10 +95,3 @@ Ready for data storytelling in Tableau, Power BI, or further predictive modeling
 
 ---
 
-## 🦋 Butterfly Effect Summary
-
-> A single row showing a layoff in January 2023 becomes a signal of broader tech industry turbulence.  
-> One company laying off 100% of its workforce despite raising millions becomes a red flag for investors.  
-> Grouping layoffs by date reveals Q1 as a danger zone for employees — and a forecasting opportunity for leadership.  
-> Each SQL query uncovers not just numbers, but **business decisions with global consequences**.
-
